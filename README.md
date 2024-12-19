@@ -21,9 +21,7 @@ The tools and techniques include advanced data visualization, sentiment analysis
 - **`Th2.ipynb`**: A central notebook that consolidates analysis from various dimensions for reporting and visualization.
 
 - **` All.ipynb`**: Integrates data and results from all aspects (Environmental, Human, Social, and Economic) to generate comprehensive insights.
-
-- **`client_secret_485612575425-er3n8dgic7oduvajdkrnm55l25pj9236.apps.googleusercontent.com.json`**: Configuration file containing API credentials required for accessing the Reddit API.
-
+  
 ---
 
 ### Key Libraries Used
